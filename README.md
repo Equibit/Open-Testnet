@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## Welcome to the Open Testnet wiki!
 
-You can use the [editor on GitHub](https://github.com/Equibit/Open-Testnet/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### What is Equibit?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Equibit is a proof-of-work (POW) peer-to-peer (P2P) protocol forked from Bitcoin. Peer-to-peer networks are the safest way to safeguard securities in a digital economy. As the world economy reshapes itself in a post-dollar era, the need to safeguard digital promises is greater than ever. Political turmoil always includes economic treachery. Equibit can protect our securities through political and economic instability.
 
-### Markdown
+Equibit is a form of digital paper usable to issue stock certificates and digital assets ownership securities. Equibit is better than other forms of electronic stocks because its foundation is built on a simple, open-source, auditable, and dedicated POW blockchain protocol.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Why blockchain?
 
-```markdown
-Syntax highlighted code block
+Blockchains provide better historical record, better defenses against hacking, censorship resiliency, real-time fraud detection, and defenses against numerous other forms of electronic attacks. Blockchains provide built-in mathematical assurances of authenticity.  
 
-# Header 1
-## Header 2
-### Header 3
+Management of current forms of electronic stock requires trust in a 3rd party that must maintain and defend the databases where securities are registered. In the last few years, we’ve seen governments and the largest corporations on earth, get hacked and loose information that was believed to be secure. It wasn’t.
 
-- Bulleted
-- List
+This repository is a collaboration space for community member interested in participating in the development of the protocol. The network is open to new Testnet nodes! Interested operators should join our #Testnet channel on Discord: https://discord.gg/T2fSExs.
 
-1. Numbered
-2. List
+* Additional information about the Equibit protocol can be found at https://www.equibitgroup.com
+* The original whitepaper published on arXiv.org: https://arxiv.org/abs/1612.06953
 
-**Bold** and _Italic_ and `Code` text
+### Getting Started
 
-[Link](url) and ![Image](src)
-```
+Download, installation, and upgrade instructions can be found in the [Getting Started](doc/00-getting-started.md) page.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Once your node is active, please visit the voluntary [Testnet Registry](https://github.com/Equibit/Open-Testnet/wiki/Testnet-Registry) to add your node to the list. We are looking for help setting up a more structured registry.
 
-### Jekyll Themes
+Tips and useful commands to get started are located here: [Useful Tips](https://github.com/Equibit/Open-Testnet/wiki/Useful-Tips)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Equibit/Open-Testnet/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Do not hesitate to participate in the Discord channel. Discord is meant to for the community to support newcomers. Respect other's contributions and add your own! Thank you for your help in launching this network!
 
-### Support or Contact
+### License
+Equibit Core is released under the terms of the MIT license. See [COPYING](COPYING.md)for more information or visit https://opensource.org/licenses/MIT.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Development Process
+
+Please join us on Discord (https://discord.gg/T2fSExs) and contact an channel administrator. We are always looking for community members that can help us improve the code or create new integrated applications. Please visit our 
+
+### Achievement Rewards
+
+Please visit the [Achievement Rewards]((https://github.com/Equibit/Open-Testnet/wiki/Achievement-Rewards) page for various levels of adoption. We want to create an interactive community around the Equibit protocol. The concept is in its early formation; your thoughts and recommendations are welcome!
+
