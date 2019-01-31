@@ -19,7 +19,7 @@ This repository is a collaboration space for community member interested in part
 
 ### Getting Started
 
-Download, installation, and upgrade instructions can be found in the [Getting Started](doc/00-getting-started.md) page.
+Download, installation, and instructions on how to get started can be found in the [Testnet Wiki](https://github.com/Equibit/Open-Testnet/wiki).
 
 Once your node is active, please visit the voluntary [Testnet Registry](https://github.com/Equibit/Open-Testnet/wiki/Testnet-Registry) to add your node to the list. We are looking for help setting up a more structured registry.
 
