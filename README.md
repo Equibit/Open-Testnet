@@ -28,7 +28,7 @@ Tips and useful commands to get started are located here: [Useful Tips](https://
 Do not hesitate to participate in the Discord channel. Discord is meant to for the community to support newcomers. Respect other's contributions and add your own! Thank you for your help in launching this network!
 
 ### License
-Equibit Core is released under the terms of the MIT license. See [COPYING](COPYING.md)for more information or visit https://opensource.org/licenses/MIT.
+Equibit Core is released under the terms of the MIT license. See [COPYING](COPYING.md) for more information or visit https://opensource.org/licenses/MIT.
 
 ### Development Process
 
@@ -36,5 +36,5 @@ Please join us on Discord (https://discord.gg/T2fSExs) and contact an channel ad
 
 ### Achievement Rewards
 
-Please visit the [Achievement Rewards]((https://github.com/Equibit/Open-Testnet/wiki/Achievement-Rewards) page for various levels of adoption. We want to create an interactive community around the Equibit protocol. The concept is in its early formation; your thoughts and recommendations are welcome!
+Please visit the [Achievement Rewards](https://github.com/Equibit/Open-Testnet/wiki/Achievement-Rewards) page for various levels of adoption. We want to create an interactive community around the Equibit protocol. The concept is in its early formation; your thoughts and recommendations are welcome!
 
