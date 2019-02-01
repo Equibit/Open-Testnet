@@ -17,9 +17,9 @@ This repository is a collaboration space for community member interested in part
 * Additional information about the Equibit protocol can be found at https://www.equibitgroup.com
 * The original whitepaper published on arXiv.org: https://arxiv.org/abs/1612.06953
 
-### Getting Started
+### [Getting Started](https://github.com/Equibit/Open-Testnet/wiki) 
 
-Download, installation, and instructions on how to get started can be found in the [Testnet Wiki](https://github.com/Equibit/Open-Testnet/wiki).
+[Download](https://github.com/Equibit/Open-Testnet/wiki/EQB-Node), installation, and instructions on how to get started can be found in the [Testnet Wiki](https://github.com/Equibit/Open-Testnet/wiki).
 
 Once your node is active, please visit the voluntary [Testnet Registry](https://github.com/Equibit/Open-Testnet/wiki/Testnet-Registry) to add your node to the list. We are looking for help setting up a more structured registry.
 
