@@ -32,9 +32,5 @@ Equibit Core is released under the terms of the MIT license. See [COPYING](https
 
 ### Development Process
 
-Please join us on Discord (https://discord.gg/T2fSExs) and contact an channel administrator. We are always looking for community members that can help us improve the code or create new integrated applications. Please visit our CONTRIBUTING.md(https://github.com/Equibit/Open-Testnet/blob/master/CONTRIBUTING.md) page.
-
-### Achievement Rewards
-
-Please visit the [Achievement Rewards](https://github.com/Equibit/Open-Testnet/wiki/Achievement-Rewards) page for various levels of adoption. We want to create an interactive community around the Equibit protocol. The concept is in its early formation; your thoughts and recommendations are welcome!
+Please join us on Discord (https://discord.gg/T2fSExs) and contact an channel administrator. We are always looking for community members that can help us improve the code or create new integrated applications. 
 
