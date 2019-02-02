@@ -12,10 +12,10 @@ Blockchains provide better historical record, better defenses against hacking, c
 
 Management of current forms of electronic stock requires trust in a 3rd party that must maintain and defend the databases where securities are registered. In the last few years, we’ve seen governments and the largest corporations on earth, get hacked and loose information that was believed to be secure. It wasn’t.
 
-This repository is a collaboration space for community member interested in participating in the development of the protocol. The network is open to new Testnet nodes! Interested operators should join our #Testnet channel on Discord: https://discord.gg/T2fSExs.
+This repository is a collaboration space for community member interested in participating in the development of the protocol. The network is open to new Testnet nodes! Interested operators should join our #Testnet channel on Discord: [https://discord.gg/T2fSExs](https://discord.gg/T2fSExs).
 
-* Additional information about the Equibit protocol can be found at https://www.equibitgroup.com
-* The original whitepaper published on arXiv.org: https://arxiv.org/abs/1612.06953
+* Additional information about the Equibit protocol can be found at [https://www.equibitgroup.com](https://www.equibitgroup.com)
+* The original whitepaper published on arXiv.org: [https://arxiv.org/abs/1612.06953](https://arxiv.org/abs/1612.06953)
 
 ### [Getting Started](https://github.com/Equibit/Open-Testnet/wiki) 
 
@@ -28,9 +28,9 @@ Tips and useful commands to get started are located here: [Useful Tips](https://
 Do not hesitate to participate in the Discord channel. Discord is meant to for the community to support newcomers. Respect other's contributions and add your own! Thank you for your help in launching this network!
 
 ### License
-Equibit Core is released under the terms of the MIT license. See [COPYING](https://github.com/Equibit/Open-Testnet/blob/master/COPYING) for more information or visit https://opensource.org/licenses/MIT.
+Equibit Core is released under the terms of the MIT license. See [COPYING](https://github.com/Equibit/Open-Testnet/blob/master/COPYING) for more information or visit [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT).
 
 ### Development Process
 
-Please join us on Discord (https://discord.gg/T2fSExs) and contact an channel administrator. We are always looking for community members that can help us improve the code or create new integrated applications. 
+Please join us on Discord [https://discord.gg/T2fSExs](https://discord.gg/T2fSExs) and contact an channel administrator. We are always looking for community members that can help us improve the code or create new integrated applications. 
 
